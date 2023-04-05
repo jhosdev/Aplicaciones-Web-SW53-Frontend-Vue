@@ -1,20 +1,20 @@
 <script setup>
-import WelcomeItem from './TutorialItem.vue'
+import TutorialItem from './TutorialItem.vue'
 </script>
 
 <template>
-    <WelcomeItem>
+    <TutorialItem>
         <template #heading>Documentation</template>
-    </WelcomeItem>
-    <WelcomeItem>
+    </TutorialItem>
+    <TutorialItem>
         <template #heading>Documentation</template>
-    </WelcomeItem>
-    <WelcomeItem>
+    </TutorialItem>
+    <TutorialItem>
         <template #heading>Documentation</template>
-    </WelcomeItem>
-    <WelcomeItem>
+    </TutorialItem>
+    <TutorialItem>
         <template #heading>Documentation</template>
-    </WelcomeItem>
+    </TutorialItem>
 </template>
 
 

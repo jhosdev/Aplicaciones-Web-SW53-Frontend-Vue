@@ -4,18 +4,18 @@
             <Category/>
         </div>
         <div class="container right">
-            <TheWelcome/>
+            <Tutorial/>
         </div>
     </div>
 </template>
 
 <script>
 import Category from "@/components/Category.vue";
-import TheWelcome from "@/components/Tutorial.vue";
+import Tutorial from "@/components/Tutorial.vue";
 
 export default {
     name: "BodyContent",
-    components: {TheWelcome, Category},
+    components: {Tutorial, Category},
     props: {
         title: String,
     }
