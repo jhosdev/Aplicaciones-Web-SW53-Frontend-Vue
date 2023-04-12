@@ -6,7 +6,9 @@
   outline: none; border:none;
   text-decoration: none;
 }
+
 #app {
+  margin: auto;
   max-width: 1200px;
   font-weight: normal;
 }

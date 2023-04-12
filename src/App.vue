@@ -1,5 +1,4 @@
 <script setup>
-import Header from "@/components/HeaderContent.vue";
 import FooterContent from "@/components/FooterContent.vue";
 import HeaderContent from "@/components/HeaderContent.vue";
 import BodyContent from "@/components/BodyContent.vue";
